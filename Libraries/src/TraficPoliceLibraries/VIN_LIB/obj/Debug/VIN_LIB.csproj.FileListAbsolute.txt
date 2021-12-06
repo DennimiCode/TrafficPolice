@@ -1,0 +1,5 @@
+C:\Users\denni\source\repos\TrafficPolice\Libraries\src\TraficPoliceLibraries\VIN_LIB\bin\Debug\VIN_LIB.dll
+C:\Users\denni\source\repos\TrafficPolice\Libraries\src\TraficPoliceLibraries\VIN_LIB\bin\Debug\VIN_LIB.pdb
+C:\Users\denni\source\repos\TrafficPolice\Libraries\src\TraficPoliceLibraries\VIN_LIB\obj\Debug\VIN_LIB.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\TrafficPolice\Libraries\src\TraficPoliceLibraries\VIN_LIB\obj\Debug\VIN_LIB.dll
+C:\Users\denni\source\repos\TrafficPolice\Libraries\src\TraficPoliceLibraries\VIN_LIB\obj\Debug\VIN_LIB.pdb

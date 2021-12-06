@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4bdf58e4-fa05-44e6-87c5-9a27dbd6717f": {
+      "ProjectGuid": "4bdf58e4-fa05-44e6-87c5-9a27dbd6717f",
+      "DisplayName": "REG_MARK_LIB",
+      "ColorIndex": 0
+    },
+    "80c0d264-2179-4c61-b7a9-10cbbaac9755": {
+      "ProjectGuid": "80c0d264-2179-4c61-b7a9-10cbbaac9755",
+      "DisplayName": "VIN_LIB",
+      "ColorIndex": 1
+    },
+    "ad50a887-dcf2-46f5-94ee-e37e00ed7a18": {
+      "ProjectGuid": "ad50a887-dcf2-46f5-94ee-e37e00ed7a18",
+      "DisplayName": "VIN_LIB",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

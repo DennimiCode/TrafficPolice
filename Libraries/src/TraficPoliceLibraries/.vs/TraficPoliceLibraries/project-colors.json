@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecaf8233-6ca9-4c0c-a574-888ba445a9c0": {
+      "ProjectGuid": "ecaf8233-6ca9-4c0c-a574-888ba445a9c0",
+      "DisplayName": "VIN_LIB",
+      "ColorIndex": 0
+    },
+    "7bf5c715-3966-4f2f-823f-b3d64ff234cc": {
+      "ProjectGuid": "7bf5c715-3966-4f2f-823f-b3d64ff234cc",
+      "DisplayName": "REG_MARK_LIB",
+      "ColorIndex": 1
+    },
+    "2d2216bc-af9a-4329-873d-8d2c5bb8847f": {
+      "ProjectGuid": "2d2216bc-af9a-4329-873d-8d2c5bb8847f",
+      "DisplayName": "LibrariesTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

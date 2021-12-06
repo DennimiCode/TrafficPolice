@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7369c0d4-7b7f-4fcf-bc3a-14b7f9f82c79": {
+      "ProjectGuid": "7369c0d4-7b7f-4fcf-bc3a-14b7f9f82c79",
+      "DisplayName": "TrafficPolice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

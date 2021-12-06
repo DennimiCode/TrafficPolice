@@ -1,0 +1,15 @@
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.SuggestedBindingRedirects.cache
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\App.g.cs
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice_MarkupCompile.cache
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice_MarkupCompile.lref
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.exe.config
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.exe
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\bin\Debug\TrafficPolice.pdb
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.g.resources
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.Properties.Resources.resources
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.GenerateResource.cache
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.exe
+C:\Users\denni\source\repos\TrafficPolice\TrafficPolice\obj\Debug\TrafficPolice.pdb
